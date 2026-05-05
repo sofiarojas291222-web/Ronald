@@ -1,4 +1,3 @@
-[logimetrica_v41_v2 (4).html](https://github.com/user-attachments/files/27379259/logimetrica_v41_v2.4.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
